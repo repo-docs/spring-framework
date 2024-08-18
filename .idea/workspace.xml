@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41ab2c1d-aa85-418d-bd4a-58a77da4de07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PDFReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Red.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/hibernate-core-6.6.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jakarta.transaction-api-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-j-8.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-data-commons-3.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-data-jpa-2.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Furniture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HTMLReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HTMLReportGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +63,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\debay\IdeaProjects\spring-framework\libs" />
+      <recent name="C:\Users\debay\IdeaProjects\spring-framework\src" />
       <recent name="C:\Users\debay\IdeaProjects\spring-framework" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
